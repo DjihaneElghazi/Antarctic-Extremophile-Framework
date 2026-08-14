@@ -75,7 +75,7 @@ Graph-theoretic density modeling confirms that alternative sub-populations natur
 | :--- | :--- | :--- |
 | **Thermodynamic Behavior** | Rapid Decay / Thermal Decoherence | Protected Non-Equilibrium Steady State (NESS) |
 | **Error / Noise Management** | Noise Suppression / Passive Decay | Structural Isolation & Exploration Channeling |
-| **Generated Beat Scale (\Lambda_{\text{beat}})** | N/A (Point Mode Emission) | **~2.96 µm** (Micrometer Cell Matching) |
+| **Generated Beat Scale ($\Lambda_{\text{beat}}$)** | N/A (Point Mode Emission) | **~2.96 µm** (Micrometer Cell Matching) |
 | **Quantum State Purity (P(t))** | Disrupted by Ambient Heat | **~99.96%** Steady-State Purity at $298\text{ K}$ |
 | **Forward Power Efficiency** | Isotropic / Unguided Dispersion | **~89.88%** Directional Forward Transmission |
 | **Phase Mechanics** | Static Locking / Resonant Freeze | Bounded Dynamic Phase Drift (~283.8°/step) |
