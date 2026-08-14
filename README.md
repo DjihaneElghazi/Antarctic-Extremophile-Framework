@@ -52,8 +52,8 @@ Interference between counter-propagating modes scales short-wavelength emissions
 
 ### 2. Quantum Purity & Coherence Preservation
 Open quantum system simulations solving the Lindblad Master Equation for C-phycocyanin subunits under thermal bath conditions ($298\text{ K}$) demonstrate high topological resilience:
-* **Steady-State Purity ($P(t)$):** Achieves **~99.96%** purity ($\text{Tr}(\rho^2) \approx 0.999585$), proving resistance against thermal decoherence.
-* **Persistent Quantum Coherence ($C(t)$):** Maintains non-zero off-diagonal density matrix elements over extended timeframes, confirming stable phase alignment.
+* **Steady-State Purity (P(t)):** Achieves **~99.96%** purity ($\text{Tr}(\rho^2) \approx 0.999585$), proving resistance against thermal decoherence.
+* **Persistent Quantum Coherence (C(t)):** Maintains non-zero off-diagonal density matrix elements over extended timeframes, confirming stable phase alignment.
 * **Dipole Coupling Efficiency:** Reaches **~71%** of maximum theoretical dipole coupling, optimizing energy transport while avoiding thermal energy trapping.
 
 ### 3. Directional Power Distribution & Phase Mechanics
